@@ -1,4 +1,4 @@
-# Classification-of-Multiple-Visual-Field-Defects-using-CNN
+# Classification of Multiple Visual Field Defects using CNN
 - This work is classify 6 types of visual field defect from Humphrey Visual Field Defect using CNN  
 - The dataset is not include to protect the privacy
 - This work has enter Research and Invention Tournament in [EREKA](https://ereka.unimap.edu.my/images/result/RESULTS_EREKA_2021_OVERALL.pdf) and [MTE](https://mte.org.my/)
